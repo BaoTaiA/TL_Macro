@@ -1,0 +1,9 @@
+PyQt5
+pynput
+keyboard
+pywebview
+opencv-python-headless
+numpy
+Pillow
+mss
+bettercam
